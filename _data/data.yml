@@ -4,35 +4,35 @@
 
 sidebar:
   position: left # position of the sidebar : left or right
-  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
   name: Dr. Marcelo Errecalde 
-  tagline: Full Stack Developer
+  tagline: Professor and researche
   avatar: marcelo.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
-  github: jekyll
-  telegram: # add your nickname without '@' sign
-  gitlab:
-  bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
-  stack-overflow: # Number/Username, e.g. 123456/alandoe
-  codewars:
-  goodreads: # Number-Username, e.g. 123456-alandoe
-  mastodon: # Please include your full Mastodon link here.
-  hackerrank: # Please provide your HackerRank username.
-  leetcode: # Please provide your LeetCode username.
-  pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+  email: merrecalde@gmail.com
+  phone: +54 (0266) 4520300 - Int(5259)
+  #timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  #citizenship:
+  #website: https://example.com/ # Include the full website URL, including "http://" or "https://".
+  #linkedin: alandoe
+  #xing: alandoe
+  github: merrecalde
+  #telegram: # add your nickname without '@' sign
+  #gitlab:
+  #bitbucket:
+  #bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
+  #twitter: '@jekyllrb'
+  #stack-overflow: # Number/Username, e.g. 123456/alandoe
+  #codewars:
+  #goodreads: # Number-Username, e.g. 123456-alandoe
+  #mastodon: # Please include your full Mastodon link here.
+  #hackerrank: # Please provide your HackerRank username.
+  #leetcode: # Please provide your LeetCode username.
+  #pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
 #  languages:
  #   title: Languages
@@ -284,4 +284,4 @@ skills:
     level: 60%
 
 footer: >
-  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+#  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
