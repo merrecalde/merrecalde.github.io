@@ -80,12 +80,12 @@ career-profile:
     on the web. He has led several projects funded by the Sadosky Foundation in collaboration with
     companies and government agencies, involving the use of AI and NLP techniques in industry and
     government administrative processes.
-  education:
+education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: PhD in Computer Science. 
+    university: Universidad Nacional del Sur
+    time: 2000 - 2004
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -94,9 +94,9 @@ career-profile:
       pretium quis, sem.
         - Bullet point
         - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
+  - degree: BSc in Computer Science.  
+    university: Universidad Nacional de San Luis
+    time: 1995 
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
