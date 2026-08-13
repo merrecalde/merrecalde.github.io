@@ -15,7 +15,7 @@ sidebar:
   # Sidebar links
   email: merrecalde@gmail.com
   phone: +54 (0266) 4520300 - Int(5259)
-  Google Scholar: https://scholar.google.com/citations?hl=es&user=kKgqok8AAAAJ
+  googlescholar: https://scholar.google.com/citations?hl=es&user=kKgqok8AAAAJ
   timezone: America/Argentina
   #citizenship:
   website: https://lidic.unsl.edu.ar/
@@ -107,7 +107,7 @@ education:
         - Bullet point
         - Bullet point
 
-experiences:
+experiences22222:
   title: Experiences
   info:
   - role: Lead Developer
