@@ -182,50 +182,17 @@ publications:
     conference: Proceedings of the 2nd Joint WICOW/AIRWeb Workshop on Web Quality, 2012, ISBN = 978-1-4503-1237-0, Lyon, France, pp. 7-10, ACM, New York, NY,USA.
 
   - title:  More publication are available here
-    link: "https://lidic.unsl.edu.ar/publicaciones"
-   
-    #link: More publication are available here
-    #<a href="https://lidic.unsl.edu.ar/publicaciones" target="_blank" rel="nofollow">here</a>
-
-experiences:
-  title: Technological services, and Technical assistance
-  info:
-  - role:
-    time: 
-    company: 
-    details: |
-      
-      - Lead Researcher for a project funded by the Sadosky Foundation for phase zero of R+D+i projects in ICT topics (2020).
-      - Lead of the research group for a project selected under the 2023 "Innovative Solutions for Software Challenges" call by the Sadosky Foundation.
-      - Member of the Principal Group for the High-Performance Computing Project (PCI) selected
-        by the National System of Scientific-Technological Research Infrastructures (SNIICT) in the Accelerated Calculation Projects Initiative (IPAC) – CLEMENTINA XXI (2025).
-        
+    link: "https://lidic.unsl.edu.ar/publicaciones"          
 
 projects:
   title: Technological services, and Technical assistance
 
   intro: >
-    - You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      - Lead Researcher for a project funded by the Sadosky Foundation for phase zero of R+D+i projects in ICT topics (2020).
+      - Lead of the research group for a project selected under the 2023 "Innovative Solutions for Software Challenges" call by the Sadosky Foundation.
+      - Member of the Principal Group for the High-Performance Computing Project (PCI) selected
+        by the National System of Scientific-Technological Research Infrastructures (SNIICT) in the Accelerated Calculation Projects Initiative (IPAC) – CLEMENTINA XXI (2025).
   assignments:
-  - title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-  - title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
-
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 
 recommendations:
