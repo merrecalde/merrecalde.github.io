@@ -99,9 +99,9 @@ education:
 experiences:
   title: Teaching
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role:
+    time: 
+    company: 
     details: |
       _ 
         - Tenured Full-time Associate Professor (UNSL, 2015 Present)
@@ -110,6 +110,14 @@ experiences:
       Responsible for teaching the following undergraduate courses: Artificial Intelligence, Intelligent
       Systems, Foundations of Artificial Intelligence, Agents and Multi-agent Systems, Machine Learning,
       Data Mining
+
+      Postgraduate Courses: I have taught 36 postgraduate courses on the following topics: Machine
+      Learning and Data Mining (UNSL and UNPA), Agents and Multi-agent Systems (UNPA, UNLP,
+      UNSL), Advanced Topics in Text and Web Mining (UBA), Data Mining (UNSL), Text Mining
+
+      (UNSL, UNPA, UNLP), Models and Architectures for Artificial Intelligent Agents (UNSL),
+      Information Systems in Agriculture (UNSL), Data Analysis in Social Networks (University of the
+      Azuay, Ecuador), Natural Language Processing (Universidad Abierta Interamericana, UAI)
 
 
 
