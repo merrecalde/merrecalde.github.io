@@ -117,29 +117,27 @@ experiences:
       Azuay, Ecuador), Natural Language Processing (Universidad Abierta Interamericana, UAI)
 
 certifications:
-  title: Certifications
+  title: Research
   list:
-  - name: CV Builder
-    start: 2020
-    end: 2021
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.google.com
-    credentialname: Google
+  - name: 
+    start: 
+    end: 
+    organization: 
+    credentialid: 
+    credentialurl: 
+    credentialname: 
     details: |
-      Details about cert. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+      Since April 1987, I have participated uninterruptedly as a member of 25 research projects, serving as
+      Director for 4 of these projects and Co-director for 2.
 
-      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-      fringilla vel. Ut euismod, sem sed vulputate venenatis,
-      justo diam viverra velit, sed rhoncus leo leo eu justo.
-      Suspendisse placerat risus ante, sed porta nisi blandit at.
+      - Director: Laboratorio de Investigación y Desarrollo en Inteligencia Computacional (LIDIC),
+        Faculty of Physical, Mathematical and Natural Sciences, Universidad Nacional de San Luis.
+      - Creator and Director: Instituto de Ciencias Computacionales, Cognitivas, Psicológicas y
+        Sociales (ICOPS), Universidad Nacional de San Luis.
+        
+      Research Interests: Artificial Intelligence, Intelligent Systems, Multi-agent Systems, Machine
+      Learning, Text Mining, Natural Language Processing and Robotics
+
   - name: Git learning
     start: 2019
     end:
