@@ -187,6 +187,20 @@ publications:
     #link: More publication are available here
     #<a href="https://lidic.unsl.edu.ar/publicaciones" target="_blank" rel="nofollow">here</a>
 
+experiences:
+  title: Technological services, and Technical assistance
+  info:
+  - role:
+    time: 
+    company: 
+    details: |
+      
+      - Lead Researcher for a project funded by the Sadosky Foundation for phase zero of R+D+i projects in ICT topics (2020).
+      - Lead of the research group for a project selected under the 2023 "Innovative Solutions for Software Challenges" call by the Sadosky Foundation.
+      - Member of the Principal Group for the High-Performance Computing Project (PCI) selected
+        by the National System of Scientific-Technological Research Infrastructures (SNIICT) in the Accelerated Calculation Projects Initiative (IPAC) – CLEMENTINA XXI (2025).
+        
+
 projects:
   title: Technological services, and Technical assistance
 
