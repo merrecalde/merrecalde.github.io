@@ -3,50 +3,48 @@
 #
 
 sidebar:
-  position: left # position of the sidebar : left or right
-  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  position: right # position of the sidebar : left or right
+  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Dr. Marcelo Errecalde 
-  tagline: Professor and researcher
-  avatar: marcelo.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  name: Alan Doe
+  tagline: Full Stack Developer
+  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: merrecalde@gmail.com
-  phone: +54 (0266) 4520300 - Int(5259)
-  googlescholar: https://scholar.google.com/citations?hl=es&user=kKgqok8AAAAJ
-  timezone: America/Argentina
-  #citizenship:
-  website: https://lidic.unsl.edu.ar/
-  #linkedin: alandoe
-  #xing: alandoe
-  github: merrecalde
-  #telegram: # add your nickname without '@' sign
-  #gitlab:
-  #bitbucket:
-  #bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  #twitter: '@jekyllrb'
-  #stack-overflow: # Number/Username, e.g. 123456/alandoe
-  #codewars:
-  #goodreads: # Number-Username, e.g. 123456-alandoe
-  #mastodon: # Please include your full Mastodon link here.
-  #hackerrank: # Please provide your HackerRank username.
-  #leetcode: # Please provide your LeetCode username.
-  #pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+  email: example@email.com
+  phone: 012 345 6789
+  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  citizenship:
+  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
+  linkedin: alandoe
+  xing: alandoe
+  github: jekyll
+  telegram: # add your nickname without '@' sign
+  gitlab:
+  bitbucket:
+  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
+  twitter: '@jekyllrb'
+  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  codewars:
+  goodreads: # Number-Username, e.g. 123456-alandoe
+  mastodon: # Please include your full Mastodon link here.
+  hackerrank: # Please provide your HackerRank username.
+  leetcode: # Please provide your LeetCode username.
+  pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
-#  languages:
- #   title: Languages
-  #  info:
-   # - idiom: English
-    #  level: Native
+  languages:
+    title: Languages
+    info:
+    - idiom: English
+      level: Native
 
-    
-    #- idiom: French
-     # level: Professional
+    - idiom: French
+      level: Professional
 
-    #- idiom: Spanish
-     # level: Professional
+    - idiom: Spanish
+      level: Professional
 
   interests:
     title: Interests
@@ -66,27 +64,18 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Professor and Researcher at the National University of San Luis (UNSL) and the National University
-    of Southern Patagonia (UNPA), Argentina. He is the professor in charge of postgraduate courses at
-    the University of Buenos Aires (UBA), the National University of La Plata (UNLP), UNSL, UNPA,
-    the Inter-American Open University (UAI), and the University of Azuay (Ecuador) on topics related
-    to Artificial Intelligence (AI), Multi-Agent Systems (MAS), Machine Learning (ML), Text and Web
-    Mining, and Natural Language Processing (NLP). With 30 years of experience as a researcher in AI
-    areas such as ML, MAS, and NLP, he has actively participated with leading AI groups in Spain,
-    Mexico, Germany, Austria, and Greece. He is the Director of the Laboratory for Research and
-    Development in Computational Intelligence (LIDIC) and the Institute of Computational, Cognitive,
-    Psychological, and Social Sciences (ICOPS) at UNSL. Currently, his research focuses on the early
-    detection of at-risk individuals (depression, addictions, etc.) online. This research has resulted in some
-    of the state-of-the-art systems for the early detection of depression, anorexia, and gambling addiction
-    on the web. He has led several projects funded by the Sadosky Foundation in collaboration with
-    companies and government agencies, involving the use of AI and NLP techniques in industry and
-    government administrative processes.
+    Summarise your career here lorem ipsum dolor sit amet, consectetuer
+    adipiscing elit. You can [download this free resume/CV template here]().
+    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+    Donec quam felis, ultricies nec, pellentesque eu.
+    Second paragraph if required.
 education:
   title: Education
   info:
-  - degree: PhD in Computer Science. 
-    university: Universidad Nacional del Sur
-    time: 2000 - 2004
+  - degree: MSc in Computer Science
+    university: University of London
+    time: 2011 - 2012
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -95,20 +84,20 @@ education:
       pretium quis, sem.
         - Bullet point
         - Bullet point
-  - degree: BSc in Computer Science.  
-    university: Universidad Nacional de San Luis
-    time: 1995 
+  - degree: BSc in Applied Mathematics
+    university: Bristol University
+    time: 2007 - 2011
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
       sociis natoque penatibus et magnis dis parturient montes, nascetur
       ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
       pretium quis, sem.
-        - Tenured Full-time Associate Professor (UNSL, 2015 – Present)
-        - Tenured Part-time Assistant Professor (UNPA-UACO, 2010 – Present)
+        - Bullet point
+        - Bullet point
 
 experiences:
- title: Experiences
+  title: Experiences
   info:
   - role: Lead Developer
     time: 2015 - Present
@@ -147,7 +136,6 @@ experiences:
       pellentesque eu, pretium quis, sem.
         - Bullet point
         - Bullet point
-
 
 certifications:
   title: Certifications
@@ -295,4 +283,4 @@ skills:
     level: 60%
 
 footer: >
-#  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
