@@ -134,26 +134,9 @@ certifications:
         Faculty of Physical, Mathematical and Natural Sciences, Universidad Nacional de San Luis.
       - Creator and Director: Instituto de Ciencias Computacionales, Cognitivas, Psicológicas y
         Sociales (ICOPS), Universidad Nacional de San Luis.
-        
+
       Research Interests: Artificial Intelligence, Intelligent Systems, Multi-agent Systems, Machine
       Learning, Text Mining, Natural Language Processing and Robotics
-
-  - name: Git learning
-    start: 2019
-    end:
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.github.com
-    credentialname: Github
-    details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
 
 projects:
   title: Projects
@@ -200,24 +183,26 @@ oss:
 publications:
   title: Publications
   intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
+    Publications: Author of 113 scientific conference articles, 17 book chapters, and 43 journal articles.
+    His work has been published in leading journals in the field of intelligent systems, including:
+    Artificial Intelligence, Expert Systems with Applications, ACM Transactions on Interactive
+    Intelligent Systems, Information Processing & Management, Biomedical Signal Processing and
+    Control and Natural Language Engineering
   papers:
-  - title: The Art of Computer Programming
+  - title: A text classification framework for simple and effective early depression detection over social media streams
     link: "#"
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
+    authors: S. G. Burdisso, M. Errecalde, M. Montes-y-Gómez.
+    conference: Expert Systems with Applications, Volume 133, 2019, Pages 182-197, Elsevier.
 
-  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+  - title: "An efficient Particle Swarm Optimization approach to cluster short texts"
     link: "#"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+    authors: Leticia Cagnina, Marcelo Errecalde, Diego Ingaramo and Paolo Rosso.
+    conference: Information Sciences, 265 36 - 49, Elsevier. May 2014.
 
-  - title: A syntax directed compiler for Algol 60
+  - title: Measuring the Quality of Web Content using Factual Information
     link: "#"
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
+    authors: Elisabeth Lex, Michael Voelske, Marcelo Errecalde, Edgardo Ferretti, Leticia Cagnina, Christopher Horn, Michael Granitzer, Benno Stein.
+    conference: Proceedings of the 2nd Joint WICOW/AIRWeb Workshop on Web Quality, 2012, ISBN = 978-1-4503-1237-0, Lyon, France, pp. 7-10, ACM, New York, NY,USA.
 
 recommendations:
   title: Recommendations
