@@ -108,10 +108,10 @@ education:
         - Tenured Part-time Assistant Professor (UNPA-UACO, 2010 – Present)
 
 experiences:
-#  title: Teaching 
-#        - Tenured Full-time Associate Professor (UNSL, 2015 – Present)
-#        - Tenured Part-time Assistant Professor (UNPA-UACO, 2010 – Present)
-        title: Experiences
+  #title: Teaching 
+  #      - Tenured Full-time Associate Professor (UNSL, 2015 – Present)
+  #      - Tenured Part-time Assistant Professor (UNPA-UACO, 2010 – Present)
+ title: Experiences
   info:
   - role: Lead Developer
     time: 2015 - Present
@@ -150,6 +150,7 @@ experiences:
       pellentesque eu, pretium quis, sem.
         - Bullet point
         - Bullet point
+
 
 certifications:
   title: Certifications
