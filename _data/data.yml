@@ -108,21 +108,37 @@ education:
         - Tenured Part-time Assistant Professor (UNPA-UACO, 2010 – Present)
 
 experiences:
-  title: Teaching 
-        - Tenured Full-time Associate Professor (UNSL, 2015 – Present)
-        - Tenured Part-time Assistant Professor (UNPA-UACO, 2010 – Present)
-        
-  - role: 
-    time: 
-    company: 
-    details: 
-     Responsible for teaching the following undergraduate courses: Artificial Intelligence, Intelligent
-      Systems, Foundations of Artificial Intelligence, Agents and Multi-agent Systems, Machine Learning,
-      Data Mining
-      Postgraduate Courses: I have taught 36 postgraduate courses on the following topics: Machine
-      Learning and Data Mining (UNSL and UNPA), Agents and Multi-agent Systems (UNPA, UNLP,
-      UNSL), Advanced Topics in Text and Web Mining (UBA), Data Mining (UNSL), Text Mining
-        
+#  title: Teaching 
+#        - Tenured Full-time Associate Professor (UNSL, 2015 – Present)
+#        - Tenured Part-time Assistant Professor (UNPA-UACO, 2010 – Present)
+        title: Experiences
+  info:
+  - role: Lead Developer
+    time: 2015 - Present
+    company: Startup Hubs, San Francisco
+    details: |
+      Describe your role here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+      Cum sociis natoque penatibus et magnis dis parturient montes,
+      nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+      error sit voluptatem accusantium doloremque laudantium, totam rem
+      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+      architecto beatae vitae dicta sunt explicabo.
+        - Bullet point
+        - Bullet point
+  - role: Senior Software Engineer
+    time: 2014 - 2015
+    company: Google, London
+    details: |
+      Describe your role here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+      Cum sociis natoque penatibus et magnis dis parturient montes,
+      nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      pellentesque eu, pretium quis, sem.
+        - Bullet point
+        - Bullet point
   - role: UI Developer
     time: 2012 - 2014
     company: Amazon, London
