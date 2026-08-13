@@ -97,7 +97,7 @@ education:
         - Bullet point
 
 experiences:
-  title: Experiences
+  title: Teaching
   info:
   - role: Lead Developer
     time: 2015 - Present
@@ -112,8 +112,8 @@ experiences:
       error sit voluptatem accusantium doloremque laudantium, totam rem
       aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
       architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
+        - Tenured Full-time Associate Professor (UNSL, 2015 Present)
+        - Tenured Part-time Assistant Professor (UNPA-UACO, 2010 Present)
   - role: Senior Software Engineer
     time: 2014 - 2015
     company: Google, London
