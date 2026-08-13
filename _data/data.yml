@@ -64,12 +64,21 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    Professor and Researcher at the National University of San Luis (UNSL) and the National University
+    of Southern Patagonia (UNPA), Argentina. He is the professor in charge of postgraduate courses at
+    the University of Buenos Aires (UBA), the National University of La Plata (UNLP), UNSL, UNPA,
+    the Inter-American Open University (UAI), and the University of Azuay (Ecuador) on topics related
+    to Artificial Intelligence (AI), Multi-Agent Systems (MAS), Machine Learning (ML), Text and Web
+    Mining, and Natural Language Processing (NLP). With 30 years of experience as a researcher in AI
+    areas such as ML, MAS, and NLP, he has actively participated with leading AI groups in Spain,
+    Mexico, Germany, Austria, and Greece. He is the Director of the Laboratory for Research and
+    Development in Computational Intelligence (LIDIC) and the Institute of Computational, Cognitive,
+    Psychological, and Social Sciences (ICOPS) at UNSL. Currently, his research focuses on the early
+    detection of at-risk individuals (depression, addictions, etc.) online. This research has resulted in some
+    of the state-of-the-art systems for the early detection of depression, anorexia, and gambling addiction
+    on the web. He has led several projects funded by the Sadosky Foundation in collaboration with
+    companies and government agencies, involving the use of AI and NLP techniques in industry and
+    government administrative processes.
 education:
   title: Education
   info:
