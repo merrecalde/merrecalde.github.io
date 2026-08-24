@@ -135,7 +135,7 @@ publications:
     Intelligent Systems, Information Processing & Management, Biomedical Signal Processing and
     Control and Natural Language Engineering
   papers:
-  - title: Parallel architectures for large-scale document processing \: Integrating OCR and RAG pipelines.
+  - title: Parallel architectures for large-scale document processing - Integrating OCR and RAG pipelines.
     link: "https://doi.org/10.1016/j.jpdc.2026.105337"
     authors: Alejandro Jaime, Veronica Gil-Costa, Marcelo Errecalde, Leticia Cagnina.
     conference: Journal of Parallel and Distributed Computing, Volume 218, 2026, ISSN 0743-7315.
