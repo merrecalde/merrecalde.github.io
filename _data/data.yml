@@ -135,6 +135,11 @@ publications:
     Intelligent Systems, Information Processing & Management, Biomedical Signal Processing and
     Control and Natural Language Engineering
   papers:
+  - title: Parallel architectures for large-scale document processing: Integrating OCR and RAG pipelines.
+    link: "https://doi.org/10.1016/j.jpdc.2026.105337"
+    authors: Alejandro Jaime, Veronica Gil-Costa, Marcelo Errecalde, Leticia Cagnina.
+    conference: Journal of Parallel and Distributed Computing, Volume 218, 2026, ISSN 0743-7315.
+
   - title: A text classification framework for simple and effective early depression detection over social media streams
     link: "#"
     authors: S. G. Burdisso, M. Errecalde, M. Montes-y-Gómez.
@@ -149,6 +154,11 @@ publications:
     link: "#"
     authors: Elisabeth Lex, Michael Voelske, Marcelo Errecalde, Edgardo Ferretti, Leticia Cagnina, Christopher Horn, Michael Granitzer, Benno Stein.
     conference: Proceedings of the 2nd Joint WICOW/AIRWeb Workshop on Web Quality, 2012, ISBN = 978-1-4503-1237-0, Lyon, France, pp. 7-10, ACM, New York, NY,USA.
+
+  - title: An approach to decision making based on dynamic argumentation systems.
+    link: "https://doi.org/10.1016/j.artint.2016.10.004"
+    authors: Edgardo Ferretti, Luciano H. Tamargo, Alejandro J. García, Marcelo L. Errecalde, Guillermo R. Simari. 
+    conference: Artificial Intelligence, Volume 242,2017, Pages 107-131, ISSN 0004-3702.
 
   - title:  More publication are available here
     link: "https://lidic.unsl.edu.ar/publicaciones"          
