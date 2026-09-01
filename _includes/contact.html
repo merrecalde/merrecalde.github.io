@@ -7,6 +7,12 @@
     </li>
     {% endif %}
 
+    {% if sidebar.email2 %}
+    <li class="email"><i class="fas fa-envelope"></i>
+      <a href="mailto:{{ sidebar.email2 }}">{{ sidebar.email2 }}</a>
+    </li>
+    {% endif %}
+
     {% if sidebar.phone %}
     <li class="phone"><i class="fas fa-phone"></i>
       <a href="tel:{{ sidebar.phone }}">{{ sidebar.phone }}</a>
@@ -19,9 +25,33 @@
     </li>
     {% endif %}
 
-    {% if sidebar.timezone %}
-    <li class="timezone"><i class="fas fa-clock"></i>
-      <a href="https://worldtimeapi.org/timezone/{{ sidebar.timezone }}" target="_blank">{{ sidebar.timezone }} Timezone</a>
+    {% if sidebar.google-scholar %}
+    <li class="timezone"><i class="fa-brands fa-google-scholar"></i>
+      <a href="https://scholar.google.com/citations?hl=es&user=kKgqok8AAAAJ" target="_blank">{{ sidebar.google-scholar }} </a>
+    </li>
+    {% endif %}
+
+    {% if sidebar.researchgate %}
+    <li class="timezone"> <i class="fa-brands fa-researchgate"></i>
+      <a href="{{ sidebar.researchgate}}" target="_blank"> ResearchGate </a>
+    </li>
+    {% endif %}
+
+    {% if sidebar.scopus %}
+    <li class="timezone"> <i class="fa-sharp-duotone fa-regular fa-e"></i>
+      <span> Scopus ID: {{ sidebar.scopus }} </span>      
+    </li>
+    {% endif %}
+
+     {% if sidebar.orcid %}
+    <li class="timezone"> <i class="fa-brands fa-orcid"></i>
+      <a href=" {{ sidebar.orcid}} " target="_blank"> ORCID  </a>
+    </li>
+    {% endif %}   
+
+    {% if sidebar.website %}
+    <li class="website"><i class="fa-brands fa-google-scholar"></i>
+      <a href="{{ sidebar.website }}" target="_blank">{{ sidebar.website }}</a>
     </li>
     {% endif %}
 

@@ -28,5 +28,11 @@
   </div><!--//item-->
   {% endfor %}
 
+  {% if publications.more %}
+  <div class="intro">   
+    <a href=" {{ publications.more }} " target="_blank"> More publications are available here >></a>
+  </div><!--//intro-->
+  {% endif %}  
+
 </section><!--//section-->
 {% endif %}

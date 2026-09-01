@@ -13,27 +13,15 @@ sidebar:
   avatar: marcelo.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: merrecalde@gmail.com
-  phone: +54 (0266) 4520300 - Int(5260)
-  timezone: America/Argentina # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  citizenship:
-  #website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  #linkedin: alandoe
-  #xing: alandoe
-  github: merrecalde
-  #telegram: # add your nickname without '@' sign
-  #gitlab:
-  #bitbucket:
-  #bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  #twitter: '@jekyllrb'
-  #stack-overflow: # Number/Username, e.g. 123456/alandoe
-  #codewars:
-  #goodreads: # Number-Username, e.g. 123456-alandoe
-  #mastodon: # Please include your full Mastodon link here.  
-  #hackerrank: # Please provide your HackerRank username.
-  #leetcode: # Please provide your LeetCode username.
-  #pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+  email: merreca@unsl.edu.ar 
+  email2: merreca@email.unsl.edu.ar
 
+  phone: +54 (0266) 4520300 - Int(5260)
+  google-scholar: Google Scholar # 
+  researchgate: https://www.researchgate.net/profile/Marcelo_Errecalde
+  scopus: 23388776000
+  orcid: https://orcid.org/0000-0001-5605-8963
+ 
   #languages:
   #  title: Languages
   #  info:
@@ -66,6 +54,7 @@ career-profile:
     on the web. He has led several projects funded by the Sadosky Foundation in collaboration with
     companies and government agencies, involving the use of AI and NLP techniques in industry and
     government administrative processes.
+
 education:
   title: Education
   info:
@@ -80,13 +69,10 @@ education:
     details: |
      
 
-experiences:
+teaching:
   title: Teaching
   info:
-  - role:
-    time: 
-    company: 
-    details: |
+  - details: |
       
       - Tenured Full-time Associate Professor (UNSL, 2015 Present)
       - Tenured Part-time Assistant Professor (UNPA-UACO, 2010 Present)
@@ -103,17 +89,10 @@ experiences:
       Information Systems in Agriculture (UNSL), Data Analysis in Social Networks (University of the
       Azuay, Ecuador), Natural Language Processing (Universidad Abierta Interamericana, UAI)
 
-certifications:
+research:
   title: Research
   list:
-  - name: 
-    start: 
-    end: 
-    organization: 
-    credentialid: 
-    credentialurl: 
-    credentialname: 
-    details: |
+  - details: |
       Since April 1987, I have participated uninterruptedly as a member of 25 research projects, serving as
       Director for 4 of these projects and Co-director for 2.
 
@@ -160,24 +139,38 @@ publications:
     authors: Edgardo Ferretti, Luciano H. Tamargo, Alejandro J. García, Marcelo L. Errecalde, Guillermo R. Simari. 
     conference: Artificial Intelligence, Volume 242,2017, Pages 107-131, ISSN 0004-3702.
 
-  - title:  More publication are available here
-    link: "https://lidic.unsl.edu.ar/publicaciones"          
+  more: https://lidic.unsl.edu.ar/publicaciones  
+        
 
-projects:
+services-assistance:
   title: Technological services, and Technical assistance
-
-  intro: >
+  info:
+  - details: |  
       - Lead Researcher for a project funded by the Sadosky Foundation for phase zero of R+D+i projects in ICT topics (2020).
       - Lead of the research group for a project selected under the 2023 "Innovative Solutions for Software Challenges" call by the Sadosky Foundation.
       - Member of the Principal Group for the High-Performance Computing Project (PCI) selected
         by the National System of Scientific-Technological Research Infrastructures (SNIICT) in the Accelerated Calculation Projects Initiative (IPAC) – CLEMENTINA XXI (2025).
-  assignments:
-        - Lead Researcher for a project funded by the Sadosky Foundation for phase zero of R+D+i projects in ICT topics (2020).
+ 
 
-        - Lead of the research group for a project selected under the 2023 "Innovative Solutions for Software Challenges" call by the Sadosky Foundation.
 
-        - Member of the Principal Group for the High-Performance Computing Project (PCI) selected
-          by the National System of Scientific-Technological Research Infrastructures (SNIICT) in the Accelerated Calculation Projects Initiative (IPAC) – CLEMENTINA XXI (2025).
+theses:
+  title: Theses Supervised
+  info:
+  - details: |  
+      - Undergraduate Theses: 30 completed Final Projects (Licentiate or Engineering).
+      - Specialization Projects: 3 Final Projects (1 completed, 2 in progress).
+      - Master's Theses: 10 theses (9 completed, 1 in progress).
+      - PhD Dissertations: 11 theses (6 completed, 5 in progress).
+        
+ 
+academic-managment:
+  title: Academic Managment
+  info:
+  - details: |  
+      - Director of the Bachelor's Degree in Computer Science (UNSL).
+      - Co-Director of the PhD in Computer Science (UNSL).
+      - Vice-director of the Specialization in Management and Technological Linking (UNSL).
+      
 
 
 
