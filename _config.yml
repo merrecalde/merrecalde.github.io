@@ -6,7 +6,10 @@ url: 'https://merrecalde.github.io'
 
 #change it according to your repository name
 # disabling since we are using a custom domain
-#baseurl: '/online-cv' 
+baseurl: 'https://merrecalde.github.io' 
+
+plugins:
+  - jekyll-sitemap
 
 description: Marcelo Errecalde, Professor and Researcher at the National University of San Luis UNSL, website
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
@@ -35,6 +38,5 @@ port: 4000
 host: 0.0.0.0
 safe: false
 
-plugins:
-  - jekyll-sitemap
+
 
