@@ -6,7 +6,7 @@ url: 'https://merrecalde.github.io'
 
 #change it according to your repository name
 # disabling since we are using a custom domain
-baseurl: 'https://merrecalde.github.io' 
+baseurl: 'https://github.io' 
 
 plugins:
   - jekyll-sitemap
